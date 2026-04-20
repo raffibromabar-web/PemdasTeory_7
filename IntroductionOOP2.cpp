@@ -34,5 +34,6 @@ int main(){
     cout << endl;
     cout << "Barang 2 =" <<endl;
     nonElektronik.printData();
+    
 }
 
